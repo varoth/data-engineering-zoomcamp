@@ -114,7 +114,7 @@ Tip: For every trip on a single day, we only care about the trip with the longes
 - **2019-09-26**
 - 2019-09-21
 
-###Query:
+### Query:
 ```commandline
 SELECT 
 	DATE(lpep_pickup_datetime) AS pickup_date,
